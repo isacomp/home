@@ -1,0 +1,26 @@
+Costos de Mano de obra --
+sin material en algunos servicios informáticos: 
+
+>Instalación windows 10 $12 
+/Revisión y Diagnóstico Laptops y Mobiles $Gratis$
+<Limpieza física externa laptop $8
+>Limpieza interna Laptop con pasta térmica $25
+>Limpieza interna Pc escritorio con pasta $20
+<Limpieza y Actualización Software $12
+>Reemplazo de fuente de poder, pantalla, touchpad mouse, teclado, baterías laptop $20 
+>Configuración de correos electrónicos o creación de uno $5 
+<Configuración impresoras, tinta o Discos duros $8
+>Configuración de Red wifi a impresoras $12
+<Eliminación de virus y Actualizaxion antivirus $10 
+>Instalación de un disco duro o memoria ram desde $18 
+<Instalación o Actualización Drivers $12
+>Instalación o Licencia Office $12
+>Clonación de disco $25
+<Correcciones de Software $12
+<Cambio de Pila Bios $5
+<Servicio remoto ( hora fracción por TeamViewer ) instalaciones remotas de programas $8 
+>Revisión y Diagnóstico Impresora $5
+>Cambio y Limpieza Almohadillas impresoras $40 
+>Reparación de bisagras desde $30
+>Corrección Menor (Atasco de hojas, Acomodo de Gomas, Ajuste de Engranes, Ajuste de mecanismo) impresora $20
+>Mantenimiento Impresora Inyección de Tinta $32
